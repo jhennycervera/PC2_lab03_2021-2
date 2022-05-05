@@ -4,13 +4,13 @@
  * and open the template in the editor.
  */
 package pe.edu.pucp.musicalstore.dao;
-import
+import productos.cuerda.Guitarra;
 /**
  *
  * @author jhenn
  */
+
 public interface GuitarraDAO {
     int insertar(Guitarra guitarra);
-
     
 }
